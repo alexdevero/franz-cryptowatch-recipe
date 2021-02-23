@@ -1,0 +1,15 @@
+{
+  "id": "cryptowatch",
+  "name": "cryptowat.ch",
+  "version": "1.0.0",
+  "description": "cryptowat.ch",
+  "main": "index.js",
+  "author": "Alex Devero <deveroalex@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/alexdevero/franz-cryptowatch-recipe",
+  "config": {
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "serviceURL": "https://cryptowat.ch/charts/KRAKEN:ETH-USD?period=1d"
+  }
+}
